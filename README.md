@@ -1,6 +1,6 @@
 Task 4 - Binary Classification using Logistic Regression
 
-This project is part of the AI & ML Internship by Elevate Labs (Ministry of MSME, Govt. of India).  
+
 The goal is to build a **binary classifier using logistic regression**.
 
 ---
